@@ -1,0 +1,13 @@
+# config.yaml
+
+data_sources:
+  yahoo_rss: "https://finance.yahoo.com/rss/headline?s={ticker}"
+  reddit_subreddit: "wallstreetbets"
+  reddit_query: "{ticker}"
+  reddit_limit: 10
+
+api_keys:
+  reddit:
+    client_id: "BNqHiJ2n7qMKbYthnCIKA"
+    client_secret: "PlUKpiDND5g7LEb2z5chjs2tr8RqJw"
+    user_agent: "scrap_for_science"
