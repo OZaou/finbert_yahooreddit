@@ -1,5 +1,3 @@
-# main.py
-
 from sentiment_analyzer import FinBERTSentimentAnalyzer
 from data_sources import fetch_data_sources
 from visualization import plot_sentiment
