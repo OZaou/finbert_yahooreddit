@@ -1,4 +1,3 @@
-
 import feedparser
 
 def fetch_yahoo_rss(ticker):
