@@ -1,5 +1,3 @@
-# sentiment_analyzer.py
-
 from transformers import BertTokenizer, BertForSequenceClassification
 import torch
 
