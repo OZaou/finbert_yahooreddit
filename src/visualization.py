@@ -3,7 +3,7 @@
 import matplotlib.pyplot as plt
 
 def plot_sentiment(sentiment_data, ticker):
-    sources = list(sentiment_data.keys())  # e.g., ['yahoo_rss', 'reddit']
+    sources = list(sentiment_data.keys())
     sentiments = {'positive': [], 'neutral': [], 'negative': []}
 
     for source, sentiment_count in sentiment_data.items():
