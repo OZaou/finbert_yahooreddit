@@ -1,5 +1,3 @@
-# visualization.py
-
 import matplotlib.pyplot as plt
 
 def plot_sentiment(sentiment_data, ticker):
