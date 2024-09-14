@@ -1,5 +1,3 @@
-# reddit_parser.py
-
 import praw
 import logging
 
