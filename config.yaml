@@ -1,4 +1,3 @@
-# config.yaml
 
 data_sources:
   yahoo_rss: "https://finance.yahoo.com/rss/headline?s={ticker}"
